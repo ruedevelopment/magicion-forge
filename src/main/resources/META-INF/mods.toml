@@ -1,14 +1,14 @@
 modLoader = "javafml"
 loaderVersion = "[36,)"
-license = "All rights reserved"
+license = "LGPL-3.0-or-later"
 
 [[mods]] #mandatory
 
 modId = "magicion"
 version = "${file.jarVersion}"
 displayName = "Magicion"
-authors="Rue Development"
+authors="RUE Development"
 description = '''
-Magicion is a tiny mod aiming to expend the magic in Minecraft.
+Magicion is a mod aiming to expand the magic in Minecraft.
 This mod adds new magical content such as enchantments, illagers or potions, as well as introducing a whole new system with magic where the player can cast their own simple combinations of spells!
 '''
